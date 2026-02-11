@@ -26,7 +26,8 @@ class Songs
     // Create a class constructor with multiple parameters
     public Songs(String song, String artist, int year)
     {
-
+        // "this" refers to the current object
+        // It distinguishes between the class fields and constructor parameters
         this.song = song;
         this.artist = artist;
         this.year = year;
