@@ -21,7 +21,7 @@ and the correct overridden method runs automatically.
 - Keeps Main clean
 - Enables dynamic behavior
 
-##3. 🛡 Encapsulation
+## 3. 🛡 Encapsulation
 
 Encapsulation is hiding internal data and exposing only what’s necessary.
 
